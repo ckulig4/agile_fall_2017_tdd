@@ -49,4 +49,7 @@ public class CarTest {
 	    assertThat(car1.getSpeed(), is(0)); 
 	     
 	} 	
+	// Crash method
+	// Insert test for crash logic
+	
 }
